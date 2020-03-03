@@ -1,0 +1,11 @@
+C:\Users\KurtK\source\repos\long-int\long-int\bin\Debug\netcoreapp3.1\long-int.exe
+C:\Users\KurtK\source\repos\long-int\long-int\bin\Debug\netcoreapp3.1\long-int.deps.json
+C:\Users\KurtK\source\repos\long-int\long-int\bin\Debug\netcoreapp3.1\long-int.runtimeconfig.json
+C:\Users\KurtK\source\repos\long-int\long-int\bin\Debug\netcoreapp3.1\long-int.runtimeconfig.dev.json
+C:\Users\KurtK\source\repos\long-int\long-int\bin\Debug\netcoreapp3.1\long-int.dll
+C:\Users\KurtK\source\repos\long-int\long-int\bin\Debug\netcoreapp3.1\long-int.pdb
+C:\Users\KurtK\source\repos\long-int\long-int\obj\Debug\netcoreapp3.1\long-int.csprojAssemblyReference.cache
+C:\Users\KurtK\source\repos\long-int\long-int\obj\Debug\netcoreapp3.1\long-int.AssemblyInfoInputs.cache
+C:\Users\KurtK\source\repos\long-int\long-int\obj\Debug\netcoreapp3.1\long-int.AssemblyInfo.cs
+C:\Users\KurtK\source\repos\long-int\long-int\obj\Debug\netcoreapp3.1\long-int.dll
+C:\Users\KurtK\source\repos\long-int\long-int\obj\Debug\netcoreapp3.1\long-int.pdb
